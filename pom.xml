@@ -48,6 +48,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!--this is a dependency for the database-->
 		<dependency>
     		<groupId>org.mariadb.jdbc</groupId>
     		<artifactId>mariadb-java-client</artifactId>
@@ -55,6 +56,7 @@
 		</dependency>
 	</dependencies>
 <!--this is a msg to check the git-->
+
 	<build>
 		<plugins>
 			<plugin>
