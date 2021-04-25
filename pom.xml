@@ -54,7 +54,7 @@
     		<version>2.5.2</version>
 		</dependency>
 	</dependencies>
-
+<!--this is a msg to check the git-->
 	<build>
 		<plugins>
 			<plugin>
