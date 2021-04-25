@@ -48,6 +48,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!--this is a comment to show as this is a denpendency for database -->
 		<dependency>
     		<groupId>org.mariadb.jdbc</groupId>
     		<artifactId>mariadb-java-client</artifactId>
